@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gowthamsatya5" target="blank"><img src="https://img.shields.io/twitter/follow/gowthamsatya5?logo=twitter&style=for-the-badge" alt="gowthamsatya5" /></a> </p>
 
-- 🔭 I’m currently working on **Musix**
+- 🔭 I’m currently working on **Algo Flow**
 
 - 🌱 I’m currently learning **Next.js, React Native**
 
